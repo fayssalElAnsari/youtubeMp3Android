@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\fayss\\Desktop\\important\\android\\sourceCodes\\youtubemp3-102\\codecanyon-24626730-youtube-mp3-player-music-on-background\\YouTube-mp3-In-Background\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\fayss\\.gradle\\caches\\transforms-2\\files-2.1\\65fac46bf7d1e610fc548ece856bce02\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
